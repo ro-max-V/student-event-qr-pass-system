@@ -42,8 +42,9 @@ student-event-qr-pass-system/
 
 ## Screenshot
 
-![Application Screenshot](screenshots/home.png)
-<img src="screenshots/qr_generated.jpeg" width="800">
+![Application Screenshot](screenshorts/home.png)
+
+![QR Generation Screenshot](screenshorts/qr_generated.png)
 
 ## How to Run
 
