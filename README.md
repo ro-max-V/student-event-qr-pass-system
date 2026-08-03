@@ -20,13 +20,17 @@ A Flask-based application that allows students to register for events and receiv
 
 ## Project Structure
 
-QR_EVENT/
+```text
+student-event-qr-pass-system/
 ├── app.py
 ├── requirements.txt
 ├── static/
 │   └── qrcodes/
 ├── templates/
 │   └── index.html
+└── screenshots/
+    └── home.png
+```
 
 ## Future Improvements
 
@@ -38,8 +42,8 @@ QR_EVENT/
 
 ## Screenshot
 
-![Application Screenshot](screenshots/home.png)
-![QR generation Screenshot](screenshots/qr_generated.jpeg)
+![Application screenshot](screenshots/home.png)
+![QR generation screenshot](screenshots/qr_generated.jpeg)
 
 ## How to Run
 
