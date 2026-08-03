@@ -39,3 +39,13 @@ QR_EVENT/
 ## Screenshot
 
 ![Application Screenshot](screenshots/home.png)
+![QR generation Screenshot](screenshots/qr_generated.jpeg)
+
+## How to Run
+
+1. Clone the repository
+
+```bash
+git clone <repo-url>
+pip install -r requirements.txt
+python app.py
